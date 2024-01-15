@@ -4,7 +4,7 @@
   <name>robotik_projekt</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="gero.licht@informatik.tu-freiberg.de">ubuntu</maintainer>
+  <maintainer email="dont@write.me">me</maintainer>
   <license>TODO: License declaration</license>
   
   <depend>rclpy</depend>

@@ -13,14 +13,15 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='ubuntu',
-    maintainer_email='gero.licht@informatik.tu-freiberg.de',
+    maintainer='me',
+    maintainer_email='dont@write.me',
     description='TODO: Package description',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'drive_with_laserscanner = robotik_projekt.drive_with_laserscanner:main'
+            'drive_with_laserscanner = robotik_projekt.drive_with_laserscanner:main',
+            'line_following = robotik_projekt.line_following:main'
         ],
     },
 )
