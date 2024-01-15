@@ -12,3 +12,9 @@ Das Beispiel konvertiert das komprimierte Kamerabild zu einem OpenCV-Graustufenb
 ```
 ros2 run robotik_projekt line_following
 ```
+
+### Abhängigkeiten
+Das Kamera-Beispiel nutzt OpenCV. Die Installation ist hier beschrieben: https://docs.opencv.org/5.x/d2/de6/tutorial_py_setup_in_ubuntu.html
+```
+sudo apt install python3-opencv
+```
